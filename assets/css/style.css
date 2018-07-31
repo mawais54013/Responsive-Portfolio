@@ -1,0 +1,512 @@
+
+h1{
+    font-size: 35px;
+  
+    color: #ffffff;
+    
+} 
+.name {
+    
+    margin-left: 170px;
+    width: 330px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #4aaaa5;
+    margin-top: 30px;
+    padding-left: 24px;
+    padding-top: 24px;
+    height: 67px;
+    
+}
+.underline
+{
+    border-bottom: #cccccc;
+    margin: 84px -20px 0px 5px;
+    border-style: solid;
+    margin-top: 0px;
+    width: 1495px;
+}
+.underline1
+{
+    border-bottom: #cccccc;
+    margin: 27px 30px 35px 30px;
+    border-style: solid;
+}
+.underline2
+{
+    background-color: #4aaaa5;
+    margin-top: -50px;
+    margin-bottom: -80px;
+    height: 20px;
+    width: 1500px;
+}
+.underline3
+{
+    background-color: #4aaaa5;
+    margin-top: 220px;
+    margin-bottom: -80px;
+    height: 20px;
+    width: 102%;
+}
+.underline4
+{
+    background-color: #4aaaa5;
+    margin-top: -90px;
+    margin-bottom: 0px;
+    height: 20px;
+    width: 102%;
+    
+}
+.underline5
+{
+    background-color: #4aaaa5;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 20px;
+    width: 102%;
+}
+li
+{
+    float: right;
+    overflow: hidden;
+    list-style-type: none;
+    padding: 8px;
+    padding-top: 0;
+    border-right: 1px solid #bbb
+   
+} 
+ul{
+    overflow: hidden;
+    list-style-type: none;
+    margin: -55px 170px;
+    margin-left: 0px;
+    margin-right: 0px;
+    left: 1090px;
+    position: absolute;
+}
+p{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;  
+}
+
+.para1{
+    margin-top: 120px;
+    text-align: left;
+    position: absolute;
+    padding: 10px;
+    top: 150px;
+    left:390px;
+    width: 870px;
+    line-height: 30px;
+   font-size: 16px;
+}
+.para2
+{
+    margin-top: -80px;
+    position: relative;
+    line-height: 30px;
+    width: 1000px;
+    padding-left: 97px;
+    font-size: 16px;
+}
+.para3
+{
+    margin-top: 15px;
+    position: relative;
+    line-height: 30px;
+    width: 1070px;
+    padding-left: 27px;
+    font-size: 16px;
+} 
+
+.about 
+{
+    margin-left: 30px;
+    color: #4aaaa5;
+}
+.about-me img
+{
+    height: 220px;
+    width: 180px;
+    margin-left: -140px;
+    margin-top: -70px;
+    margin-right: 20px;
+    float: left;
+}
+div{
+    background-color: #ffffff;
+    width: 1110px;
+    padding-top: 40px;
+    margin: 40px 0px 150px 170px;
+}
+.main
+{
+    background-color: #ffffff;
+    width: 1110px;
+    padding-top: 40px;
+    margin: 40px 0px 150px 170px;
+    height: 370px;
+}
+
+.image{
+    margin-top: 150px;
+}
+.footer-container
+{
+    margin-bottom: -230px;
+    margin-top: 70px;
+    width: 1500px;
+}
+.footer-container1
+{
+    
+    margin-bottom: -230px;
+    margin-top: 70px;
+}
+.footer-container2
+{
+    
+    top:-300px;
+    
+}
+
+footer{
+    text-align: center;
+    
+    padding-top: 20px;
+    
+    height: 50px;
+    width: 105%;
+    background-color: #666666;
+}
+.about-me
+{
+    width: 400px;
+}
+input
+{
+
+    padding: 12px 0px;
+    margin: 12px 35px;
+    box-sizing: border-box;
+}
+label 
+{
+    margin: 0 35px;
+    color: #777777;
+}
+#message
+{
+
+    height: 190px;
+    width: 1050px;
+  
+}
+#name
+{
+    width: 1050px;
+}
+#email
+{
+    width: 1050px;
+}
+#submit
+{
+    width: 80px;
+
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+h3
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.text1  
+{
+    padding-top: 20px;
+    padding-right: 76px;
+    padding-left: 90px;
+    padding-bottom: 20px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    float: left;
+    left: 200px;
+    top: 470px;
+    bottom: 300px;
+    width: 74px;
+    
+}
+.text2
+{
+    padding-top: 20px;
+    padding-right: 76px;
+    padding-left: 90px;
+    padding-bottom: 20px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    float: left;
+    left: 520px;
+    top: 470px;
+    bottom: 300px;
+    width: 74px;
+}
+
+@media screen and (max-width: 980px)
+{
+    /*Index/ about me page*/
+    .name{
+        margin-left: 70px;
+        width: 210px;
+    }
+    .box1
+    {
+        margin-left: 70px;
+        width: 660px;
+        height: 620px;
+    }
+    ul{
+    padding-bottom: 0px;
+    margin-bottom: -30;
+    height: 65px;
+    bottom: 290px;
+    top: 110px;
+    left: 740px;
+    }
+    html{
+        width: 1020px;
+        
+    }
+    .para1
+    {
+        left: 290px;
+        width: 440px;
+    }
+    .para2
+    {
+        top: 75px;
+        width: 630px;
+        padding-left: 30px;
+        height: 100px;
+        float: left;
+    }
+    .para3
+    {
+        top: 55px;
+        float: left;
+        width: 630px;
+
+    }
+    /*Portfolio page*/
+    .main1
+     {
+          margin-left: 67px;
+          width: 660px;
+    }
+    .text1{
+        left: 97px;
+    }
+    .text2{
+        left: 417px;
+    }
+    /*Contact page*/
+    #name{
+        width: 600px;
+    }
+    #email
+    {
+        width: 600px;
+    }
+    #message
+    {
+        width: 600px;
+    }
+}
+
+@media screen and (max-width: 768px)
+{
+    /*Index/ about me page*/
+    .name{
+        margin-left: 70px;
+        width: 210px;
+    }
+    .box1
+    {
+        margin-left: 70px;
+        width: 660px;
+        height: 620px;
+    }
+    ul{
+    padding-bottom: 0px;
+    margin-bottom: -30;
+    height: 65px;
+    bottom: 290px;
+    top: 110px;
+    left: 530px;
+    }
+    html{
+        width: 800px;
+    }
+    .para1
+    {
+        left: 290px;
+        width: 440px;
+    }
+    .para2
+    {
+        top: 75px;
+        width: 630px;
+        padding-left: 30px;
+        height: 100px;
+        float: left;
+    }
+    .para3
+    {
+        top: 55px;
+        float: left;
+        width: 630px;
+
+    }
+    .footer-container
+    {
+        width: 850px;
+    }
+    .underline2
+    {
+        width: 850px;
+    }
+     /*Portfolio page*/
+     .name{
+         padding-top: 22px;
+     }
+     /*Contact page*/
+
+}
+@media screen and (max-width: 640px)
+    {
+        /*Index/ about me page*/
+    .name{
+        margin-left: 0px;
+        width: 510px;
+        padding-left: 200px;
+        margin-top: 0px;
+    }
+    .box1
+    {
+        margin-left: 20px;
+        width: 600px;
+        height: 980px;
+    }
+    ul{
+    padding-bottom: 0px;
+    margin-bottom: -30;
+    height: 65px;
+    bottom: 290px;
+    top: 175px;
+    left: 230px;
+    }
+    html{
+        width: 600px;
+    }
+    .para1
+    {
+        left: 40px;
+        top: 700px;
+        width: 560px;
+    }
+    .para2
+    {
+        top: 260px;
+        width: 570px;
+        padding-left: 30px;
+        height: 100px;
+        float: left;
+    }
+    .para3
+    {
+        top: 235px;
+        float: left;
+        width: 570px;
+
+    }
+    .footer-container
+    {
+        width: 640px;
+    }
+    .underline{
+        margin-top: 0px;
+        padding-top: 60px;
+        background-color: white;
+        margin-right: 0px;
+        width: 710px;
+        margin-left: 0px;
+
+    }
+    .underline2
+    {
+        width: 640px;
+    }
+    #pic1
+    {
+        width: 500px;
+        height: 490px;
+    }
+    /*Portfolio page*/
+    .main1
+    {
+        margin-left: 15px;
+        width: 600px;
+    }
+    .text1{
+        top: 520px;
+        left: 45px;
+    }
+    .text2{
+        top: 520px;
+        left: 365px;
+    }
+    .name{
+        width: 440px;
+    }
+    .underline{
+        width: 640px;
+    }
+    .footer-container1
+    {
+        width: 640px;
+    }
+    .underline5{
+        width: 640px;
+    }
+     /*Contact page*/
+     #name
+     {
+         width: 544px;
+     }
+     #email
+     {
+         width: 544px;
+     }
+     #message
+     {
+         width: 544px;
+     }
+    form{
+        height: 429px;
+     }
+     #submit
+     {
+         margin-top: 0px;
+         margin-bottom: 0px;
+         padding-bottom: 10px;
+     }
+     .underline4
+     {
+         width: 640px;
+     }
+     .footer-container2
+     {
+         width: 640px;
+     }
+}
+
+
