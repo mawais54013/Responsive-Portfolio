@@ -9,7 +9,7 @@ Each page layout set to three width sides
     - 640px (phone size)
 
 # Link to deployed site
-[Responsive-Portfolio](file:///Users/muhammadawais/Desktop/Responsive-Portfolio/)
+[Responsive-Portfolio](https://mawais54013.github.io/Responsive-Portfolio/)
 
 # Images
 
